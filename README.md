@@ -13,4 +13,7 @@ cd --
 ls
 
 
+bash ip
+
+
 use it
